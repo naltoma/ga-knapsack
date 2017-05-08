@@ -16,7 +16,7 @@ void read_itemfile()
 
     read_file = fopen(itemfile,"r");
     count = 0;
-    while( count <= ITEM_NUM ){
+    while( count < ITEM_NUM ){
 	fgets(buff, sizeof(buff), read_file);
 	sscanf(buff,"%d %d",&(*(item+count)),&(*(weight+count)));
 	count++;
