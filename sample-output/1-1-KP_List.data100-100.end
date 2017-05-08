@@ -1,0 +1,10 @@
+>> max_fitness = 238720
+generation no.99
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+## GA finished!
+Best of fitness = 238720
+Generation no.59
+gene no.26 =   1  1  1  1  1  1  0  1  0  1  1  0  1  1  1  1  0  1  1  0  1  0  1  1  1  1  1  0  1  0  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  0  1  1

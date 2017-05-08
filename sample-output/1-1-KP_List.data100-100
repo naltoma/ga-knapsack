@@ -1,0 +1,544 @@
+>> generation no.0
+>> max gene[47] =   0  1  1  1  0  1  1  0  0  0  1  1  1  1  1  1  0  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  0  0  0  0  0  1  0  0  0  1  0  1  1  0  1  1  1  1  1  1  0  1  0  0  0  1  1  0  1  1  0  0  1  1  1  1  1  0  0  0  0  0  1  1  1  1  1  0  1  0  1  1  0  0  1  1  1  1  1  0  0  1  1  1  1
+>> Fitness = 185008
+MAX 0 185008
+>> max_fitness = 185008
+generation no.1
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 185008
+generation no.2
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 185008
+generation no.3
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> generation no.3
+>> max gene[19] =   0  1  1  1  0  1  0  1  0  0  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  0  0  0  0  0  0  1  0  0  1  1  0  1  1  1  1  1  1  1  1  1  0  1  0  0  1  1  1  0  1  1  0  0  1  1  1  1  1  0  0  0  0  0  0  1  1  0  1  0  1  0  1  1  0  0  1  1  1  1  1  0  0  1  1  1  1
+>> Fitness = 187992
+MAX 3 187992
+>> max_fitness = 187992
+generation no.4
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> generation no.4
+>> max gene[35] =   1  1  1  0  0  0  1  0  1  0  0  1  1  0  0  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  0  1  0  0  0  1  0  1  1  1  1  1  1  0  1  0  0  0  1  1  0  1  1  0  0  1  1  1  1  1  0  0  0  0  0  0  1  1  1  1  0  0  1  1  1  0  0  1  1  0  1  1  0  1  1  1  1  1
+>> Fitness = 190976
+MAX 4 190976
+>> max_fitness = 190976
+generation no.5
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> generation no.5
+>> max gene[15] =   0  0  1  1  1  1  0  1  1  0  1  1  1  0  1  1  0  0  1  0  1  1  1  1  0  0  1  1  1  0  1  1  0  1  1  0  1  1  1  1  1  0  0  0  1  1  1  0  0  1  1  0  1  0  0  1  1  0  1  1  1  0  1  1  0  0  1  1  1  0  0  1  0  0  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  0  0  1  1  1  0
+>> Fitness = 193960
+MAX 5 193960
+>> max_fitness = 193960
+generation no.6
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 193960
+generation no.7
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> generation no.7
+>> max gene[39] =   0  1  1  0  1  0  1  1  1  1  0  1  1  0  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  0  1  1  0  0  0  1  1  1  1  0  1  1  1  1  0  0  1  1  1  0  0  1  1  1  1  1  1  1  1  1  0  1  0  1  1  0  1  0  0  1  1  1  1  1  0  0  0  0  0  0  1  1  1  0  1  0  1  1  1
+>> Fitness = 205896
+MAX 7 205896
+>> max_fitness = 205896
+generation no.8
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 205896
+generation no.9
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> generation no.9
+>> max gene[22] =   0  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  0  1  1  1  1  0  1  0  1  1  1  0  1  1  1  0  1  1  1  1  0  0  1  1  1  1  1  0  1  0  0  0  0  0  0  1  0  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  0  1  1  0  1  1  0  1  1  1  1  0  1  0  1  0
+>> Fitness = 208880
+MAX 9 208880
+>> max_fitness = 208880
+generation no.10
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> generation no.10
+>> max gene[10] =   0  1  1  1  1  1  1  1  1  1  0  0  1  0  1  0  0  1  0  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  0  1  0  1  0  0  1  0  0  1  1  1  0  0  1  1  1  1  1  0  0  0  1  0  1  1  1  1  1  1  1  1
+>> Fitness = 214848
+MAX 10 214848
+>> max_fitness = 214848
+generation no.11
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.12
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.13
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.14
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.15
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.16
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.17
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.18
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.19
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.20
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.21
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.22
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.23
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.24
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.25
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.26
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.27
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.28
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.29
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.30
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.31
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.32
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.33
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.34
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 214848
+generation no.35
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> generation no.35
+>> max gene[18] =   0  1  1  0  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  0  1  0  1  1  0  1  1  0  1  1  1  1  0  1  1  0  1  1  0  1  1  0  1  1  1  0  1  1  1  1  1  1  0  1  1  1  0  1  0  0  1  1  1  1  1  1  1  0  1  0  1  1  1  1  0  1  1  1  1  0  1  1  1  1  0  0  0  1  1  1  1  1  1  1  0  1  1  0  1  1
+>> Fitness = 220816
+MAX 35 220816
+>> max_fitness = 220816
+generation no.36
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> generation no.36
+>> max gene[31] =   0  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  0  1  0  1  1  0  1  1  0  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  0  0  1  1  1  1  1  1  1  0  1  0  1  1  1  1  0  1  1  1  1  0  1  1  1  1  0  0  0  1  1  1  1  1  1  0  0  1  1  1  1  1
+>> Fitness = 226784
+MAX 36 226784
+>> max_fitness = 226784
+generation no.37
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.38
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.39
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.40
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.41
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.42
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.43
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.44
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.45
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.46
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.47
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.48
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.49
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.50
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.51
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.52
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.53
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 226784
+generation no.54
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> generation no.54
+>> max gene[8] =   0  1  1  1  1  1  0  1  0  1  1  0  1  1  1  1  0  1  1  0  1  0  1  1  1  1  1  0  1  0  1  1  0  1  1  0  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  0  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  0  0  1  1  1  1  1
+>> Fitness = 229768
+MAX 54 229768
+>> max_fitness = 229768
+generation no.55
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 229768
+generation no.56
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 229768
+generation no.57
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 229768
+generation no.58
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 229768
+generation no.59
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> generation no.59
+>> max gene[26] =   1  1  1  1  1  1  0  1  0  1  1  0  1  1  1  1  0  1  1  0  1  0  1  1  1  1  1  0  1  0  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  0  1  1
+>> Fitness = 238720
+MAX 59 238720
+>> max_fitness = 238720
+generation no.60
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.61
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.62
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.63
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.64
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.65
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.66
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.67
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.68
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.69
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.70
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.71
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.72
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.73
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.74
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.75
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.76
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.77
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.78
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.79
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.80
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.81
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.82
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.83
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.84
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.85
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.86
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.87
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.88
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.89
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.90
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.91
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.92
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.93
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.94
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.95
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.96
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.97
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.98
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+generation no.99
+# roulette_selection().
+# singlepoint_crossover().
+# mutation().
+>> max_fitness = 238720
+## GA finished!
+Best of fitness = 238720
+Generation no.59
+gene no.26 =   1  1  1  1  1  1  0  1  0  1  1  0  1  1  1  1  0  1  1  0  1  0  1  1  1  1  1  0  1  0  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  0  1  1
